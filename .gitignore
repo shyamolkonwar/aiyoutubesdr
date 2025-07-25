@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.env
+
+# Streamlit
+.streamlit/local/
+
+# Playwright
+test-results/
+playwright-report/
+
+# Emails generated

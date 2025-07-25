@@ -1,0 +1,14 @@
+Subject: Collaboration Idea for {channel_name}
+
+Hi {name},
+
+My name is [Your Name] and I'm the founder of [Your Company]. We specialize in {service}.
+
+I've been following your YouTube channel, {channel_name}, for a while now and I'm really impressed with your content. Your videos on {channel_topic} are particularly insightful.
+
+I believe our {service} could be a great asset to your channel. We've helped other creators [mention a benefit or result].
+
+Would you be open to a brief chat next week to explore how we can work together?
+
+Best regards,
+[Your Name]

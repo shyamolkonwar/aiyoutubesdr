@@ -1,0 +1,10 @@
+Subject: Quick Question about your channel, {channel_name}
+
+Hi {name},
+
+I'm a big fan of your YouTube channel, {channel_name}. I especially enjoyed your recent video on {latest_video_title}.
+
+I run a service that helps creators like you with {service}. I'd love to chat about how I can help you grow your channel.
+
+Best,
+[Your Name]
